@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./images/zalo.svg" alt="@nuxtjs/i18n logo">
+  <img src="https://raw.githubusercontent.com/rovahub/vue-zalo-chat-widget/master/images/zalo.svg" alt="Zalo logo">
 </p>
 
 [![](https://img.shields.io/npm/v/%40rovahub%2Fvue-zalo-chat-widget/latest.svg?style=flat-square)](https://npmjs.com/package/%40rovahub%2Fvue-zalo-chat-widget)

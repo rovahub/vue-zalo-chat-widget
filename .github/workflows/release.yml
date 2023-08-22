@@ -31,7 +31,7 @@ jobs:
       uses: actions/create-release@v1
       with:
         tag_name: ${{ steps.version.outputs.version }}
-        release_name: Release ${{ steps.version.outputs.version }}
+        release_name: Release Vue Zalo Chat Widget Version ${{ steps.version.outputs.version }}
         draft: false
         prerelease: false
       env:

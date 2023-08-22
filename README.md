@@ -67,7 +67,7 @@ In your nuxt.config.js file, add the plugin to the plugins array:
 module.exports = {
   // ...
   plugins: [
-    { src: "~/plugins/zalo-chat-plugin.js", mode: "client" }
+    { src: "~/plugins/zalo-widget.js", mode: "client" }
   ],
   // ...
 }
